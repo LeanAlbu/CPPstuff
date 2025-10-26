@@ -1,3 +1,5 @@
 # CPPstuff
-Coisas aleatórias e mini projetos em C++
-Projtos maiores serão feitos em repos separados
+Coisas aleatórias e mini projetos em C++.
+
+- Conversor de strings para ASCII
+- Jokenpô com contador
